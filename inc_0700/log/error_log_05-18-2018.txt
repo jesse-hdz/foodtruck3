@@ -1,0 +1,11 @@
+[May-18-2018 13:47:01] Undefined variable: p1 in /home/jesher35/jesseh-codes.com/foodtruck3/order.php on line 166
+[May-18-2018 13:47:01] Undefined variable: p2 in /home/jesher35/jesseh-codes.com/foodtruck3/order.php on line 167
+[May-18-2018 13:47:01] Undefined variable: p3 in /home/jesher35/jesseh-codes.com/foodtruck3/order.php on line 168
+[May-18-2018 13:47:01] Undefined variable: p4 in /home/jesher35/jesseh-codes.com/foodtruck3/order.php on line 169
+[May-18-2018 18:49:55] Undefined variable: food1 in /home/jesher35/jesseh-codes.com/foodtruck3/order.php on line 76
+[May-18-2018 18:49:55] Undefined variable: q1 in /home/jesher35/jesseh-codes.com/foodtruck3/order.php on line 77
+[May-18-2018 18:49:55] Undefined variable: p1 in /home/jesher35/jesseh-codes.com/foodtruck3/order.php on line 78
+[May-18-2018 19:12:03] Undefined variable: name in /home/jesher35/jesseh-codes.com/foodtruck3/order.php on line 183
+[May-18-2018 19:12:03] Creating default object from empty value in /home/jesher35/jesseh-codes.com/foodtruck3/order.php on line 183
+[May-18-2018 19:12:03] Undefined variable: desc in /home/jesher35/jesseh-codes.com/foodtruck3/order.php on line 184
+[May-18-2018 19:12:03] Undefined variable: price in /home/jesher35/jesseh-codes.com/foodtruck3/order.php on line 185
